@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | S. Chen&#39;s Academic</title>
+    <link>https://imcsq.github.io/publication/</link>
+      <atom:link href="https://imcsq.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://imcsq.github.io/images/icon_huca998ed287100c1906745374057f728e_43331_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://imcsq.github.io/publication/</link>
+    </image>
+    
+  </channel>
+</rss>

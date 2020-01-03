@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | S. Chen&#39;s Academic</title>
+    <link>https://imcsq.github.io/authors/</link>
+      <atom:link href="https://imcsq.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://imcsq.github.io/images/icon_huca998ed287100c1906745374057f728e_43331_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://imcsq.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://imcsq.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://imcsq.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Songqiang Chen is now a master student in School of Computer Science in Wuhan University and researcher in Center of Centre of Software Testing, Analysis and Reliability in Wuhan University. He is easygoing and good at thinking. He used to be an Olympic Information (similar to ACM) competitors and now a junior coach of it. His research interest include deep learning, intelligent software engineering, software testing, natural language processing and computer vison.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
