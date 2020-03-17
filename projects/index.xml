@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on S. Chen&#39;s Academic Homepage</title>
+    <link>https://imcsq.github.io/projects/</link>
+    <description>Recent content in Projects on S. Chen&#39;s Academic Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://imcsq.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

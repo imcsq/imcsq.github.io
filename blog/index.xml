@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on S. Chen&#39;s Academic Homepage</title>
+    <link>https://imcsq.github.io/blog/</link>
+    <description>Recent content in Blogs on S. Chen&#39;s Academic Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://imcsq.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I update my homepage with new template!</title>
+      <link>https://imcsq.github.io/blog/200317-updatehomepage/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://imcsq.github.io/blog/200317-updatehomepage/</guid>
+      <description>I update my homepage with hugo-resume theme. This template is quite clear and pretty. Thanks to the open-source of this theme.
+This template seems more appropriate for the developer&amp;rsquo;s self-introduction. I have deeply developed it to form a Academic Homepage.</description>
+    </item>
+    
+  </channel>
+</rss>

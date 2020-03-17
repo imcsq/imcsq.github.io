@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on S. Chen&#39;s Academic Homepage</title>
-    <link>https://imcsq.github.io/</link>
-    <description>Recent content in Home on S. Chen&#39;s Academic Homepage</description>
+    <title>Open Source Contributions on S. Chen&#39;s Academic Homepage</title>
+    <link>https://imcsq.github.io/projects/contributions/</link>
+    <description>Recent content in Open Source Contributions on S. Chen&#39;s Academic Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2020 16:49:15 +0000</lastBuildDate>
     
-	<atom:link href="https://imcsq.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://imcsq.github.io/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -36,30 +36,6 @@
       
       <guid>https://imcsq.github.io/projects/contributions/schema-org/</guid>
       <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
-    </item>
-    
-    <item>
-      <title>I update my homepage with new template!</title>
-      <link>https://imcsq.github.io/blog/200317-updatehomepage/</link>
-      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://imcsq.github.io/blog/200317-updatehomepage/</guid>
-      <description>I update my homepage with hugo-resume theme. This template is quite clear and pretty. Thanks to the open-source of this theme.
-This template seems more appropriate for the developer&amp;rsquo;s self-introduction. I have deeply developed it to form a Academic Homepage.</description>
-    </item>
-    
-    <item>
-      <title>Search Results</title>
-      <link>https://imcsq.github.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://imcsq.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml
-[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
     </item>
     
   </channel>

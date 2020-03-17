@@ -1,16 +1,87 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | S. Chen&#39;s Academic</title>
+    <title>Tags on S. Chen&#39;s Academic Homepage</title>
     <link>https://imcsq.github.io/tags/</link>
-      <atom:link href="https://imcsq.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://imcsq.github.io/images/icon_huca998ed287100c1906745374057f728e_43331_512x512_fill_lanczos_center_2.png</url>
-      <title>Tags</title>
-      <link>https://imcsq.github.io/tags/</link>
-    </image>
+    <description>Recent content in Tags on S. Chen&#39;s Academic Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://imcsq.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Docker</title>
+      <link>https://imcsq.github.io/tags/docker/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://imcsq.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://imcsq.github.io/tags/java/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://imcsq.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://imcsq.github.io/tags/javascript/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://imcsq.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSON</title>
+      <link>https://imcsq.github.io/tags/json/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://imcsq.github.io/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>node.js</title>
+      <link>https://imcsq.github.io/tags/node.js/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://imcsq.github.io/tags/node.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REST APIs</title>
+      <link>https://imcsq.github.io/tags/rest-apis/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://imcsq.github.io/tags/rest-apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bamboo</title>
+      <link>https://imcsq.github.io/tags/bamboo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imcsq.github.io/tags/bamboo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jQuery</title>
+      <link>https://imcsq.github.io/tags/jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imcsq.github.io/tags/jquery/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
