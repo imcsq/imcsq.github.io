@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on S. Chen&#39;s Academic Homepage</title>
+    <title>Publications on S. CHEN&#39;s Academic Homepage</title>
     <link>https://imcsq.github.io/publications/</link>
-    <description>Recent content in Publications on S. Chen&#39;s Academic Homepage</description>
+    <description>Recent content in Publications on S. CHEN&#39;s Academic Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate>
     
 	<atom:link href="https://imcsq.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stay Professional and Efficient: Automatically Generate Titles for Your Bug Reports</title>
+      <link>https://imcsq.github.io/publications/2020-itapease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imcsq.github.io/publications/2020-itapease/</guid>
+      <description>Bug reports in a repository are generally organized line by line in a list-view, with their titles and other meta-data displayed. In this list-view, a concise and precise title plays an important role that enables project practitioners to quickly and correctly digest the core idea of the bug, without carefully reading the corresponding details. However, the quality of bug report titles varies in open-source communities, which may be due to the limited time and unprofessionalism of authors.</description>
+    </item>
+    
+    <item>
+      <title>SMAPGAN: Generative Adversarial Network-Based Semi-supervised Styled Map Tile Generation Method</title>
+      <link>https://imcsq.github.io/publications/2020-smapgantgrs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imcsq.github.io/publications/2020-smapgantgrs/</guid>
+      <description>Traditional online map tiles, which are widely used on the Internet, such as by Google Maps and Baidu Maps, are rendered from vector data. The timely updating of online map tiles from vector data, for which generation is time-consuming, is a difficult mission. Generating map tiles over time from remote sensing images is relatively simple and can be performed quickly without vector data. However, this approach used to be challenging or even impossible.</description>
+    </item>
     
   </channel>
 </rss>

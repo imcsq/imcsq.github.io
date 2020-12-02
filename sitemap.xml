@@ -26,6 +26,16 @@
   </url>
   
   <url>
+    <loc>https://imcsq.github.io/publications/2020-itapease/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://imcsq.github.io/publications/2020-smapgantgrs/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>https://imcsq.github.io/projects/contributions/shields-docker/</loc>
     <lastmod>2020-01-07T17:09:26+00:00</lastmod>
     <priority>0.8</priority>
