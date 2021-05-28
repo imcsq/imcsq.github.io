@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>MULA: A Just-In-Time Multi-labeling System for Issue Reports</title>
+      <link>https://imcsq.github.io/publications/2021-mulatr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imcsq.github.io/publications/2021-mulatr/</guid>
+      <description>A very important function of an issue tracking system is to assign labels to issue reports, such as bug, feature, enhancement, etc., in order to categorize issues to facilitate various development activities. In practice, it is very common that an issue has multiple labels. However, current works are mainly based on single-label prediction, which are not suitable for just-in-time multi-labeling services, due to the low efficiency. Therefore, in this paper, we propose MULA, a just-in-time MUlti-LAbeling system, which learns and automatically assigns multiple labels to issue reports.</description>
+    </item>
+    
+    <item>
       <title>Where to Handle an Exception? Recommending Exception Handling Locations from a Global Perspective</title>
       <link>https://imcsq.github.io/publications/2021-ehadvisoricpc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
