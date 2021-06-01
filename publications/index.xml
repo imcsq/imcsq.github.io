@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Validation on Machine Reading Comprehension Software Without Annotated Labels: A Property-Based Method</title>
+      <link>https://imcsq.github.io/publications/2021-mt-mrcfse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imcsq.github.io/publications/2021-mt-mrcfse/</guid>
+      <description>Machine Reading Comprehension (MRC) in Natural Language Processing has seen great progress recently. But almost all the current MRC software is validated with a reference-based method, which requires well-annotated labels for test cases and tests the software by checking the consistency between the labels and the outputs. However, labeling test cases of MRC could be very costly due to their complexity, which makes reference-based validation hard to be extensible and sufficient.</description>
+    </item>
+    
+    <item>
       <title>MULA: A Just-In-Time Multi-labeling System for Issue Reports</title>
       <link>https://imcsq.github.io/publications/2021-mulatr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
