@@ -23,7 +23,7 @@
         </div>
 
         <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="col-sm-8">
+        <div id="{{entry.key}}" class="col-sm-9">
         {% if entry.type == "thesis" -%}
           {{reference}}
         {%- else %}
@@ -124,6 +124,13 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
+        
+          <!-- Notes -->
+          {%- if entry.note %}
+          <div style="font-size: 0.9em; font-weight: bolder">
+            ({{ entry.note }})
+          </div>
+          {%- endif %}
         
           <!-- Links/Buttons -->
           <div class="links">
