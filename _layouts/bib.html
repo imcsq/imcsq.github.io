@@ -28,7 +28,12 @@
           {{reference}}
         {%- else %}
           <!-- Title -->
-          <div class="title">{{entry.title}}</div>
+          <div class="title">
+          {{entry.title}}
+          {% if entry.url -%}
+            <a href="{{ entry.url }}" role="button">»</a>
+          {%- endif -%}
+          </div>
           <!-- Author -->
           <div class="author">
           {% assign author_array_size = entry.author_array | size %}
@@ -133,6 +138,7 @@
           {%- endif %}
         
           <!-- Links/Buttons -->
+          {%- if page.layout != "about" %}
           <div class="links">
           {%- if entry.abstract %}
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
@@ -197,6 +203,7 @@
           <div class="bibtex hidden">
             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
           </div>
+          {%- endif %}
           {%- endif %}
         </div>
       </div>

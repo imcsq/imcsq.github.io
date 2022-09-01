@@ -11,7 +11,7 @@
       institution: School of Computer Science, Wuhan University, China
       year: 2020-now
       description:
-        - Supervised by Prof. Xiaoyuan Xie.
+        - "Supervisor: Prof. Xiaoyuan Xie."
     - title: B.Eng - Computer Science & Technology
       institution: School of Computer Science, Wuhan University, China
       year: 2016-2020
@@ -52,9 +52,9 @@
 - title: Academic Services
   type: time_table
   contents:
-    - title: PC Member in <a href="https://conf.researchr.org/track/ase-2022/ase-2022-artifact-evaluation">ASE 2022 Artifact Evaluation Track</a>
+    - title: PC Member of <a href="https://conf.researchr.org/track/ase-2022/ase-2022-artifact-evaluation">ASE 2022 Artifact Evaluation Track</a>
       year: 2022
-    - title: Sub-reviewer of several conferences (e.g., ICSE Research&Demo, ESEC/FSE Demo, QRS Research, etc.) and journals
+    - title: (Assistant of) Reviewer in several conferences (e.g., ICSE Research&Demo, ESEC/FSE Demo, QRS Research, etc.) and journals
       year: ...
 
 - title: Personal Honors and Awards

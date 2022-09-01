@@ -19,12 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi~ I am Songqiang Chen, now a master student at [School of Computer Science](http://cs.whu.edu.cn) and [Centre of Software Testing, Analysis and Reliability (CSTAR Group)](http://cstar.whu.edu.cn) in Wuhan University, China.
+Hi~ I am Songqiang Chen, currently a master student supervised by [Prof. Xiaoyuan Xie](https://xiaoyuanxie.github.io) in the [School of Computer Science](http://cs.whu.edu.cn) and [Centre of Software Testing, Analysis and Reliability (CSTAR Group)](http://cstar.whu.edu.cn) at Wuhan University, China.
 
-My research interests include both *AI4SE* and *SE4AI*. More specifically, I devise deep learning-driven techniques to facilitate intelligent software engineering (on code, document, and linkage processing) and study efficient and systematic interesting testing techniques (mainly based on Metamorphic Testing) to benefit the testing of intelligent software (e.g., Question Answering software, Autonomous Driving systems, Neural Machine Translators, etc.). 
+My research interests include both *AI4SE* and *SE4AI*. More specifically, I devise deep learning-driven techniques to facilitate intelligent software engineering (for code, document, and linkage processing) and elaborate efficient and systematic interesting testing techniques (mainly based on Metamorphic Testing) to benefit the testing of intelligent software (e.g., Deep Learning Frameworks, Question Answering software, Autonomous Driving systems, Neural Machine Translators, etc.). 
 
-So far, I have published a few papers in several top SE&CS conferences (ASE, ESEC/FSE, etc.) and journals (IEEE TR, IEEE TGRS, etc.). And it was a great honor for me to win an *ACM Distinguished Paper Award* in ASE 2021.
+So far, I have published papers in a few SE/CS top conferences (ESEC/FSE, ASE, etc.) and journals (IEEE TR, IEEE TGRS, etc.). And it was a great honor for me to win an *ACM Distinguished Paper Award* in ASE 2021.
 
-Besides research, I used to be a contestant of Olympic Information (similar to ACM) and a part-time junior coach of it. And I am really interested in software and hardware environment setup and maintenance. ;)
+Besides research, I am quite interested in and good at device/software environment setup & maintenance :smile:. And I used to be a contestant of Olympic Information (similar to ACM) and a part-time junior coach of it. 
 
 
