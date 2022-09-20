@@ -7,9 +7,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.Eng - Software Engineering
+    - title: M.Eng (MPhil) - Software Engineering
       institution: School of Computer Science, Wuhan University, China
-      year: 2020-now
+      year: 2020-2023
       description:
         - "Supervisor: Prof. Xiaoyuan Xie"
     - title: B.Eng - Computer Science & Technology
@@ -64,7 +64,7 @@
       year: 2021
       items:
         - For ASE 2021 research paper "Testing Your Question Answering Software via Asking Recursively".
-    - title: 2020 - 2021 Graduate Student National Scholarship
+    - title: 2020 - 2021 Master National Scholarship
       year: 2021
       items: 
         - Issued by Ministry of Education of the People's Republic of China
