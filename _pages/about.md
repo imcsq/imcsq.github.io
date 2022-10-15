@@ -23,7 +23,7 @@ Hi~ I am Songqiang Chen, currently a master student supervised by [Prof. Xiaoyua
 
 My research interests include both *AI4SE* and *SE4AI*. More specifically, I devise deep learning-driven techniques to facilitate intelligent software engineering (for code, document, and linkage processing). Meanwhile, I explore efficient and systematic interesting testing techniques (mainly based on Metamorphic Testing) for intelligent software (e.g., deep learning frameworks, question answering software, autonomous driving systems, translators, etc.), where I particularly value testing efficiency and diversity. 
 
-So far, I have published papers in a few SE/CS top conferences (ESEC/FSE, ASE, etc.) and journals (IEEE TR, IEEE TGRS, etc.). And it was a great honor for me to win an *ACM Distinguished Paper Award* in ASE 2021.
+So far, I have published papers in a few SE/CS top conferences (ESEC/FSE, ASE, etc.) and journals (IEEE TR, IEEE TGRS, etc.). And it is a great honor for me to win the *ACM Distinguished Paper Award* in ASE'21 and ASE'22.
 
 Besides research, I am quite interested in and good at device/software environment setup & maintenance :smile:. And I used to be a contestant of Olympic Information (similar to ACM) and a part-time junior coach of it. 
 

@@ -60,14 +60,22 @@
 - title: Selected Prestigious Honors
   type: time_table
   contents:
+    - title: 2021 - 2022 Master National Scholarship
+      year: 2022
+      items: 
+        - Issued by Ministry of Education of the People's Republic of China
     - title: ACM SIGSOFT Distinguished Paper Award
-      year: 2021
+      year: 2022
       items:
-        - For ASE 2021 research paper "Testing Your Question Answering Software via Asking Recursively".
+        - 'For the ASE 2022 research paper "Boosting the Revealing of Detected Violations in Deep Learning Testing: A Diversity-Guided Method".'
     - title: 2020 - 2021 Master National Scholarship
       year: 2021
       items: 
         - Issued by Ministry of Education of the People's Republic of China
+    - title: ACM SIGSOFT Distinguished Paper Award
+      year: 2021
+      items:
+        - For the ASE 2021 research paper "Testing Your Question Answering Software via Asking Recursively", for which I am the first author.
     - title: 2019 CCF Elite Collegiate Award (ECA2019) <a href="https://www.ccf.org.cn/Awards/Awards/2019-07-31/667597.shtml" role="button" title="View this honor.">»</a>
       year: 2019
       items: 
