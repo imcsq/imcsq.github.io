@@ -27,4 +27,4 @@ So far, I have published papers in a few SE/CS top conferences (ESEC/FSE, ASE, e
 
 Besides research, I am quite interested in and good at device/software environment setup & maintenance :smile:. And I used to be a contestant of Olympic Information (similar to ACM) and a part-time junior coach of it. 
 
-
+<center>🧧 May I Wish You Happy New Year 2023! 🧧</center>
