@@ -7,6 +7,11 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D - Computer Science & Engineering
+      institution: Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Hong Kong, China
+      year: since 2023
+      description:
+        - "Supervisor: Chair Prof. Shing-Chi Cheung"
     - title: M.Eng (MPhil) - Software Engineering
       institution: School of Computer Science, Wuhan University, China
       year: 2020-2023
@@ -60,6 +65,10 @@
 - title: Selected Prestigious Honors
   type: time_table
   contents:
+    - title: Honor of Outstanding Master Graduate
+      year: 2023
+      items:
+        - Issued by Wuhan University
     - title: 2021 - 2022 Master National Scholarship
       year: 2022
       items: 
@@ -76,6 +85,10 @@
       year: 2021
       items:
         - For the ASE 2021 research paper "Testing Your Question Answering Software via Asking Recursively", for which I am the first author.
+    - title: Honor of Outstanding Undergraduate Graduate
+      year: 2020
+      items:
+        - Issued by Wuhan University
     - title: 2019 CCF Elite Collegiate Award (ECA2019) <a href="https://www.ccf.org.cn/Awards/Awards/2019-07-31/667597.shtml" role="button" title="View this honor.">»</a>
       year: 2019
       items: 

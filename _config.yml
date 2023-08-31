@@ -6,7 +6,7 @@ title: S. CHEN's Academic Profile  # the website title (if blank, full name will
 first_name: Songqiang
 #middle_name: S.
 last_name: CHEN
-email: i9schen@gmail.com
+email: i9s.chen@connect.ust.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -92,7 +92,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  If you would like to reach me, contact me via email or visit me at CS@WHU ;)
+  If you would like to reach me, contact me via email or visit me at CASTLE@HKUST ;)
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
