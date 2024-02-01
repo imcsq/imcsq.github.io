@@ -54,9 +54,19 @@
 #      institution: University of Zurich, Zurich, Switzerland
 #      year: 1909 - 1911
 
+- title: Teaching
+  type: time_table
+  contents:
+    - title: TA of HKUST COMP5111 Fundamentals of Software Testing and Analysis
+      year: 2024Spring
+      description: 
+        - Workshop & Soot tutorial slide available at <a href="https://github.com/CastleLab/COMP5111-2024Spring-Assignments-Students/blob/asn1/tutorials/COMP5111_24S_workshop_songqiang_Feb1_ForStuPreview.pdf">here</a>.
+
 - title: Academic Services
   type: time_table
   contents:
+    - title: Reviewer of <a href="https://dl.acm.org/journal/tosem">ACM Transactions on Software Engineering and Methodology</a>
+      year: 2024
     - title: PC Member of <a href="https://conf.researchr.org/track/ase-2022/ase-2022-artifact-evaluation">ASE 2022 Artifact Evaluation Track</a>
       year: 2022
     - title: (Assistant of) Reviewer in several conferences (e.g., ICSE Research&Demo, ESEC/FSE Demo, QRS Research, etc.) and journals
@@ -65,6 +75,16 @@
 - title: Selected Prestigious Honors
   type: time_table
   contents:
+    - title: HKUST RedBird PhD Award
+      year: 2023
+      items:
+        - Awarded by HKUST
+    
+    - title: HKUST Postgraduate Studentship
+      year: 2023
+      items:
+        - Awarded by HKUST
+
     - title: Honor of Outstanding Master Graduate
       year: 2023
       items:
