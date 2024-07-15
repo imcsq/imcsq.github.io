@@ -4,7 +4,7 @@
 #    - name: Full Name
 #      value: Songqiang Chen
 
-- title: Education
+- title: Education Experience
   type: time_table
   contents:
     - title: Ph.D - Computer Science & Engineering
@@ -54,9 +54,11 @@
 #      institution: University of Zurich, Zurich, Switzerland
 #      year: 1909 - 1911
 
-- title: Teaching
+- title: Teaching Experience
   type: time_table
   contents:
+    - title: TA of HKUST CSIT5100 Engineering Reliable Software Systems
+      year: 2024Fall
     - title: TA of HKUST COMP5111 Fundamentals of Software Testing and Analysis
       year: 2024Spring
       description: 
