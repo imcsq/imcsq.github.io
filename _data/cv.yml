@@ -67,6 +67,10 @@
 - title: Academic Services
   type: time_table
   contents:
+    - title: Junior PC Member of <a href="https://2025.msrconf.org/track/msr-2025-junior-pc">MSR 2025 Technical Paper Track</a>
+      year: 2025
+    - title: PC Member of <a href="https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation">ICSE 2025 Artifact Evaluation Track</a>
+      year: 2025
     - title: Reviewer of <a href="https://dl.acm.org/journal/tosem">ACM Transactions on Software Engineering and Methodology</a>
       year: 2024
     - title: PC Member of <a href="https://2024.issta.org/track/issta-2024-artifact-evaluation">ISSTA 2024 Artifact Evaluation Track</a>
