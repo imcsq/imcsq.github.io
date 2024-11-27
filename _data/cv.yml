@@ -67,7 +67,9 @@
 - title: Academic Services
   type: time_table
   contents:
-    - title: Junior PC Member of <a href="https://2025.msrconf.org/track/msr-2025-junior-pc">MSR 2025 Technical Paper Track</a>
+    - title: PC Member of <a href="https://conf.researchr.org/track/icpc-2025/icpc-2025-tool-demonstration">ICPC 2025 Tool Demonstration Track</a>
+      year: 2025
+    - title: Junior PC Member of <a href="https://2025.msrconf.org/track/msr-2025-technical-papers">MSR 2025 Technical Paper Track</a>
       year: 2025
     - title: PC Member of <a href="https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation">ICSE 2025 Artifact Evaluation Track</a>
       year: 2025

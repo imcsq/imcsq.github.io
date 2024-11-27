@@ -7,6 +7,13 @@
     url: http://jifeng-xuan.com/
 
 "Cheung":
-  - firstname: ["Shing-Chi"]
+  - firstname: ["Shing-Chi", "SC", "S.C."]
     url: https://home.cse.ust.hk/~scc/
 
+"Xu":
+  - firstname: ["Congying"]
+    url: https://congyingxu.github.io/
+
+"Cao":
+  - firstname: ["Jialun"]
+    url: https://bella-academic.netlify.app/
