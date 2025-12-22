@@ -57,6 +57,10 @@
 - title: Teaching Experience
   type: time_table
   contents:
+    - title: TA of HKUST CSIT5100 Engineering Reliable Software Systems
+      year: 2025Fall
+    - title: TA of HKUST ARIN5305 Artificial Intelligence in Software Engineering 
+      year: 2025Fall
     - title: TA of HKUST COMP5111 Fundamentals of Software Testing and Analysis
       year: 2025Spring
       description: 
@@ -71,6 +75,16 @@
 - title: Academic Services
   type: time_table
   contents:
+    - title: PC Member of <a href="https://conf.researchr.org/track/icse-2026/icse-2026-artifact-evaluation">ICSE 2026 Artifact Evaluation Track</a>
+      year: 2026
+    - title: PC Member of <a href="https://conf.researchr.org/track/icpc-2026/icpc-2026-tool-demonstration">ICPC 2026 Tool Demonstration Track</a>
+      year: 2026
+    - title: Reviewer of <a href="https://dl.acm.org/journal/tosem">ACM Transactions on Software Engineering and Methodology</a>
+      year: 2025
+    - title: PC Member of <a href="https://conf.researchr.org/track/apsec-2025/apsec-2025-papers">APSEC 2025 Technical Track</a>
+      year: 2025
+    - title: PC Member of <a href="https://conf.researchr.org/track/issta-2025/issta-2025-artifact-evaluation">ISSTA 2025 Artifact Evaluation Track</a>
+      year: 2025
     - title: PC Member of <a href="https://conf.researchr.org/track/icpc-2025/icpc-2025-tool-demonstration">ICPC 2025 Tool Demonstration Track</a>
       year: 2025
     - title: PC Member of <a href="https://conf.researchr.org/track/saner-2025/saner-2025-short-papers-and-posters-track">SANER 2025 Short Paper and Poster Track</a>
@@ -91,6 +105,11 @@
 - title: Selected Prestigious Honors
   type: time_table
   contents:
+    - title: HKUST RedBird PhD Academic Excellence Award
+      year: 2025
+      items:
+        - Awarded by HKUST
+    
     - title: HKUST RedBird PhD Award
       year: 2023
       items:
