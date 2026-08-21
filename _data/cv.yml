@@ -57,14 +57,16 @@
 - title: Teaching Experience
   type: time_table
   contents:
+    - title: TA of HKUST ARIN5305 Artificial Intelligence in Software Engineering 
+      year: 2026Fall
+    - title: TA of HKUST COMP5111 Fundamentals of Software Testing and Analysis
+      year: 2026Spring
     - title: TA of HKUST CSIT5100 Engineering Reliable Software Systems
       year: 2025Fall
     - title: TA of HKUST ARIN5305 Artificial Intelligence in Software Engineering 
       year: 2025Fall
     - title: TA of HKUST COMP5111 Fundamentals of Software Testing and Analysis
       year: 2025Spring
-      description: 
-        - Workshop & Soot tutorial slide available at <a href="https://github.com/CastleLab/COMP5111-2025Spring-Assignments-Students/blob/asn1/tutorials/COMP5111_25S_workshop_songqiang_jan26previewver.pdf">here</a>.
     - title: TA of HKUST CSIT5100 Engineering Reliable Software Systems
       year: 2024Fall
     - title: TA of HKUST COMP5111 Fundamentals of Software Testing and Analysis
@@ -75,7 +77,21 @@
 - title: Academic Services
   type: time_table
   contents:
+    - title: Reviewer of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32">IEEE Transactions on Software Engineering</a>
+      year: 2026
+    - title: Reviewer of <a href="https://dl.acm.org/journal/tosem">ACM Transactions on Software Engineering and Methodology</a>
+      year: 2026
+    - title: PC Member of <a href="https://conf.researchr.org/track/apsec-2026/apsec-2026-technical-track">APSEC 2026 Technical Evaluation Track</a>
+      year: 2026
+    - title: PC Member of <a href="https://conf.researchr.org/track/ase-2026/ase-2026-tools-and-data-sets">ASE 2026 Tools and Datasets Track</a>
+      year: 2026
+    - title: PC Member (RRRR) of <a href="https://conf.researchr.org/track/ase-2026/ase-2026-artifact-evaluation">ASE 2026 Artifact Evaluation Track</a>
+      year: 2026
+    - title: PC Member of <a href="https://conf.researchr.org/track/issta-2026/issta-2026-artifact-evaluation">ISSTA 2026 Artifact Evaluation Track</a>
+      year: 2026
     - title: PC Member of <a href="https://conf.researchr.org/track/icse-2026/icse-2026-artifact-evaluation">ICSE 2026 Artifact Evaluation Track</a>
+      year: 2026
+    - title: PC Member of COMPSAC 2026 Technical Evaluation Track (Software Engineering Technologies & Applications)
       year: 2026
     - title: PC Member of <a href="https://conf.researchr.org/track/icpc-2026/icpc-2026-tool-demonstration">ICPC 2026 Tool Demonstration Track</a>
       year: 2026
